@@ -1,1 +1,1 @@
-My first readme
+Welcome to the ALX Zero Day repository! This repository marks the start of your ALX journey and includes tasks and exercises to be completed on your very first day. It covers the basics of version control, using Git and GitHub, and serves as an introduction to collaborative coding and project submission workflows
